@@ -8,23 +8,23 @@ In this project, I wanted to display a basic deployment of a static website to A
 Plese find screenshots below:
 
 <h3>Website Home Page</h3>
-![My Image](/images/aws-site-page-1.png)
 <img src="/images/aws-site-page-1.png" alt="Home Page Image">
 
 <h3>Website About Page</h3>
-![My Image](/images/aws-site-page-2.png)
+<img src="/images/aws-site-page-2.png" alt="About Page Image">
 
 <h3>AWS User Dashboard</h3>
-![My Image](/images/aws-dashboard.png)
+<img src="/images/aws-dashboard.png" alt="AWS Dashboard Image">
 
 <h3>AWS S3 Bucket</h3>
-![My Image](/images/aws-s3-bucket-screenshot.png)
+<img src="/images/aws-s3-bucket-screenshot.png" alt="S3 Page Image">
 
 <h3>AWS EC2</h3>
-![My Image](/images/aws-ec2-screenshot.png)
+<img src="/images/aws-ec2-screenshot.png" alt="EC2 Page Image">
 
 <h3>AWS VPC</h3>
 ![My Image](/images/aws-vpc-screenshot.png)
+<img src="/images/aws-vpc-screenshot.png" alt="VPC Page Image">
 
 Any questions, please don't hesitate to reach out.
 
