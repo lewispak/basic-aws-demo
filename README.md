@@ -9,6 +9,7 @@ Plese find screenshots below:
 
 <h3>Website Home Page</h3>
 ![My Image](/images/aws-site-page-1.png)
+<img src="/images/aws-site-page-1.png" alt="Home Page Image">
 
 <h3>Website About Page</h3>
 ![My Image](/images/aws-site-page-2.png)
